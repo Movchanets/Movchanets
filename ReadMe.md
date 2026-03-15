@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Web development (.NET, React + Typescript + Vite)
+I'm currently learning Web development (.NET, React + Typescript )
 
 
 ## 🌐 Socials:
